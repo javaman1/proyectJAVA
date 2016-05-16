@@ -1,0 +1,2 @@
+javac MIJNIint.java
+pause
